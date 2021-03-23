@@ -1,4 +1,4 @@
-/* Name: Sabrina Pinera
+/* 
 Date: 12/07/2018
 Section: (Section 5)
 Assignment: (Assignment# 7)
@@ -11,7 +11,7 @@ About this project: To gain experience with using an array of structures,
 Assumptions: (Assumes user inputs correct file name to access the code
               and have it execute the hunt, the stats, and the ball inventory)
 
-All work below was performed by (Sabrina Pinera) */
+*/
 
 #include <iostream>
 #include <cstdlib> // for srand and rand
